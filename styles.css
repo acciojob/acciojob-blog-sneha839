@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+.blog {
+	font-weight: bold;
+}
+.brute-img {
+	height: 200px;
+	display: block;
+	margin: 20px;
+}
+.brute-title {
+	font-size: 30px;
+	font-weight: bold;
+	margin: 20px;
+}
+.brute-description {
+	margin: 20px;
+}
+
+.dsa-img {
+	height: 200px;
+	display: block;
+	margin: 20px;
+}
+.dsa-title {
+	font-size: 30px;
+	font-weight: bold;
+	margin: 20px;
+}
+.dsa-para {
+	margin: 20px;
+}
+
+.css-img {
+	height: 200px;
+	display: block;
+	margin: 20px;
+}
+.css-title {
+	font-size: 30px;
+	font-weight: bold;
+	margin: 20px;
+}
+.css-para {
+	margin: 20px;
+}
