@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
 .blog {
 	font-weight: bold;
 	font-size: 30px;
